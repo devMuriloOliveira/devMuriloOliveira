@@ -15,4 +15,4 @@
   <img aling="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div><br/>
 
-Olá mundo! me chamo Murilo tenho 18 anos e estudo programação a mais de 1 ano ;).
+Olá mundo! me chamo Murilo tenho 21 anos e estudo programação a mais de 1 ano ;).
