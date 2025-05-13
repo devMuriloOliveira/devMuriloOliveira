@@ -1,4 +1,11 @@
 
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?      font=JetBrains+Mono&weight=600&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&random=false&width=600&lines=%E2%9C%A8+Hello%2C+visitor!+Welcome+to+my+GitHub+%F0%9F%91%8B;%F0%9F%92%BB+Passionate+about+coding+and+learning!" alt="Typing SVG">
+  </a>
+</div>
+
+
 ### Olá! Eu sou o Murilo Oliveira 👋
 
 [![Portfólio](https://img.shields.io/website?label=devmurilooliveira.com&style=for-the-badge&url=https://devmurilooliveira.github.io/portf-lio/)](https://devmurilooliveira.github.io/portf-lio/)
